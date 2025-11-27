@@ -1,3 +1,11 @@
+
+/**
+ * Ad Soyad: [ALİ İSTANBULLU]
+ * Öğrenci No: [250542019]
+ * Proje: [Proje3_RestoranSiparis]
+ * Tarih: [27.11.2025]
+ */
+
 import java.util.Scanner;
 
 public class Proje3_RestoranSiparis {
@@ -109,3 +117,4 @@ public class Proje3_RestoranSiparis {
         return tutar;
     }
 }
+
